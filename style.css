@@ -1,0 +1,101 @@
+html{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#mobile{
+    background-color: #DDDDDD;
+    width: 428px;
+    height: 926px;
+    border: black solid;
+    position: absolute;
+    top: 5%;
+    left: 35%;
+}
+#header{
+    background-color: #FFFF00;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+#h01{
+    font-size: 20px;
+    font-weight: bold;
+}
+#h02{
+    width: 35px;
+    height: 35px;
+    margin-left: 35%;
+}
+#createpost{
+    display: flex;
+    height: 10px;
+    padding: 15px;
+    align-items: center;
+    background-color: #AAAAAA;
+    
+}
+#c01{
+    width: 20px;
+    height: 20px;
+}
+#c02{
+    font-size: 20px;
+}
+#content{
+    height: 750px;
+    padding: 15px;
+}
+.postpf{
+    display: flex;
+    gap: 10px;
+}
+.profilepic{
+    width: 76px;
+    height: 76px;
+    border-radius: 38px;
+    border: 1px solid;
+}
+.dots3{
+    width: 20px;
+    height: 20px;
+}
+.postphoto{
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+#text1{
+    width: 210px;
+    font-size: 30px;
+}
+.photoverticle{
+    width: 175px;
+    height: 235px;
+}
+.reaction{
+    margin-left: 15px;
+    display: flex;
+    height: 25px;
+}
+.border1{
+    border: 1px solid;
+    width: 120px;
+    height: 25px;
+}
+.posttext{
+    font-size: 30px;
+    margin-top: 5px;
+}
+.ad{
+    display: flex;
+    gap: 10px;
+    font-weight: bold;
+}
+.adpic{
+    margin-top: 5px;
+    width: 400px;
+    height: 250px;
+    border: 2px solid;
+    border-radius: 25px;
+}
